@@ -1,6 +1,6 @@
 git clone "la url de mi repositorio"
 
-git add ..
+git add .
 
 git commit -m "Lo que quieras"
 
